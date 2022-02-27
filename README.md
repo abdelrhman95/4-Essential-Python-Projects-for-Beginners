@@ -1,7 +1,7 @@
 # 4-Essential-Python-Projects-for-Beginners
 
 # The first project you will learn the following (Uber Trips Analysis):
-1* Read a dataset and display records from it
+1- Read a dataset and display records from it
 2- Use your detective’s hat and uncover hidden patterns in data
 3- Find the relationship between different variables
 4- Draw insights by visualizing these relationships
